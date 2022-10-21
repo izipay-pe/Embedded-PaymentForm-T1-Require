@@ -1,14 +1,17 @@
 # Embedded-PaymentForm-T1-Require
 
-Ejemplo para utilizar la librería Require dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona.
+Ejemplo de un formulario incrustado para utilizar la librería Require dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona.
+
+<p align="center">
+  <img src="/image/imagenes-readme/formulario-incrustado.png?raw=true" alt="Formulario"/>
+</p>  
 
 <a name="Requisitos_Previos"></a>
 
 ## Requisitos Previos
 
-* Extraer claves de autentificación. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
-* Servidor Web
-* PHP 7.0 o superior
+* Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
+* Servidor web o servidor local.
 
 ## 1.- Crear el proyecto
 
@@ -55,11 +58,12 @@ Para obtener más información, eche un vistazo a:
 * [Servicios web - referencia de la API REST](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/reference.html)
 
 ## 4.- Implementar IPN
-* Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html)
 
-* Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP)
+* Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html).
 
-* Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn)
+* Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP).
 
-## 5.- Ejemplo del formulario popin
-<!-- Url de ejemplo subido. [Aquí](https://izipay-app.000webhostapp.com/)    -->
+* Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn).
+
+## 5.- Demo
+* Pruebe la demo en la [URL Aquí](https://prueba55.herokuapp.com/).
