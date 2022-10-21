@@ -3,7 +3,7 @@
 Ejemplo de un formulario incrustado para utilizar la librería Require dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona.
 
 <p align="center">
-  <img src="/image/imagenes-readme/formulario-incrustado.png?raw=true" alt="Formulario"/>
+  <img src="/src/formulario_incrustado.png?raw=true" alt="Formulario"/>
 </p>  
 
 <a name="Requisitos_Previos"></a>
