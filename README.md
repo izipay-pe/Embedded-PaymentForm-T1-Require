@@ -65,5 +65,3 @@ Para obtener más información, eche un vistazo a:
 
 * Ver el ejemplo de la respuesta IPN con NODE.JS [Aquí](https://github.com/izipay-pe/Response-PaymentFormT1-Ipn).
 
-## 5.- Demo
-* Pruebe la demo en la [URL Aquí](https://prueba55.herokuapp.com/).
