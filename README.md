@@ -72,14 +72,14 @@ NOTA:
 
 2.- No tengo una cuenta activa
 
-    | CARACTERÍSTICAS | VALOR |
-    | ------------- | ------------- |
-    | Usuario de prueba  | 89289758  |
-    | Contraseña de prueba  | testpassword_7vAtvN49E8Ad6e6ihMqIOvOHC6QV5YKmIXgxisMm0V7Eq  |
-    | Clave pública de prueba  | 89289758:testpublickey_TxzPjl9xKlhM0a6tfSVNilcLTOUZ0ndsTogGTByPUATcE  |
-    | Clave HMAC SHA256 de prueba  | fva7JZ2vSY7MhRuOPamu6U5HlpabAoEf8VmFHQupspnXB  |
-    | URL de base  | [https://api.micuentaweb.pe](https://api.micuentaweb.pe)  |
-    | URL para el cliente JavaScript | [https://static.micuentaweb.pe/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js](https://static.micuentaweb.pe/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js)  |
+   | CARACTERÍSTICAS | VALOR |
+   | ------------- | ------------- |
+   | Usuario de prueba  | 89289758  |
+   | Contraseña de prueba  | testpassword_7vAtvN49E8Ad6e6ihMqIOvOHC6QV5YKmIXgxisMm0V7Eq  |
+   | Clave pública de prueba  | 89289758:testpublickey_TxzPjl9xKlhM0a6tfSVNilcLTOUZ0ndsTogGTByPUATcE  |
+   | Clave HMAC SHA256 de prueba  | fva7JZ2vSY7MhRuOPamu6U5HlpabAoEf8VmFHQupspnXB  |
+   | URL de base  | https://api.micuentaweb.pe |
+   | URL para el cliente JavaScript | https://static.micuentaweb.pe/static/js/krypton-client/V4.0/stable/kr-payment-form.min.js  |
 
 ## 4.- Implementar IPN
 
