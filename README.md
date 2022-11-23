@@ -90,6 +90,17 @@ NOTA:
 
 ## 4.- Implementar IPN
 
+IPN son las siglas de Instant Payment Notification (URL de notificación instantánea, en inglés). Al crear una transacción o cambiar su estado, nuestros servidores emitirán una IPN que llamará a una URL de notificación en sus servidores. Esto le permitirá estar informado en tiempo real de los cambios realizados en una transacción.
+
+Las IPN son la única manera de recibir notificaciones en los casos siguientes:
+
+* La conexión a Internet del comprador se ha cortado.
+* El comprador cierra su navegador durante el pago.
+* Se ha rechazado una transacción.
+* El comprador no ha terminado su pago antes de la expiración de su sesión de pago.
+
+Por lo tanto, es obligatorio integrar las IPN.
+
 * Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html).
 
 * Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP).
