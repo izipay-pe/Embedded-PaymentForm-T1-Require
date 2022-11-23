@@ -101,6 +101,10 @@ Las IPN son la única manera de recibir notificaciones en los casos siguientes:
 
 Por lo tanto, es obligatorio integrar las IPN.
 
+<p align="center">
+  <img src="/src/IPN-imagen.png?raw=true" alt="Formulario"/>
+</p>  
+
 * Ver manual de implementacion de la IPN [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/kb/payment_done.html).
 
 * Ver el ejemplo de la respuesta IPN con PHP [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP).
