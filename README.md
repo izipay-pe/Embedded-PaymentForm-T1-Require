@@ -64,11 +64,12 @@ Para obtener más información, eche un vistazo a:
 NOTA: 
 
 1.- Paso de la tienda al modo PRODUCTION 
+
      Modifique su implementación para utilizar:
-     la contraseña de producción,
-     clave pública de producción,
-     la clave HMAC-SHA-256 de producción para calcular la firma contenida en el campo kr-hash.
-     Ingrese correctamente la URL de notificación al final del pago en modo PRODUCTION en el menú Configuración > Reglas de notificación .
+     * la contraseña de producción,
+     * clave pública de producción,
+     * la clave HMAC-SHA-256 de producción para calcular la firma contenida en el campo kr-hash.
+     * Ingrese correctamente la URL de notificación al final del pago en modo PRODUCTION en el menú Configuración > Reglas de notificación .
 
 2.- No tengo una cuenta activa con Izipay. [Suscribete Aquí](https://online.izipay.pe/comprar/cliente)
 
