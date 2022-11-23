@@ -1,10 +1,12 @@
 # Embedded-PaymentForm-T1-Require
 
-Ejemplo de un formulario incrustado para utilizar la librería Require dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona.
+ Teoria de la tecnilogia y como o para que se utiliza con el formulario de Izipay.
 
 <p align="center">
   <img src="/src/formulario_incrustado.png?raw=true" alt="Formulario"/>
 </p>  
+
+## Este es un ejemplo de como poder integrar un formulario embebido utilizando el framework "nombre de tu tecnología". Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
 
 <a name="Requisitos_Previos"></a>
 
