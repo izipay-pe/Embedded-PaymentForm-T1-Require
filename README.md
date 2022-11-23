@@ -6,13 +6,15 @@
   <img src="/src/formulario_incrustado.png?raw=true" alt="Formulario"/>
 </p>  
 
+
 ## Este es un ejemplo de como poder integrar un formulario embebido utilizando el framework "nombre de tu tecnología". Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
+
 
 <a name="Requisitos_Previos"></a>
 
 ## Requisitos Previos
 
-* Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
+* Acceso al Back Office Vendedor (BOV) y Claves de autenticación. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Servidor web o servidor local.
 
 ## 1.- Crear el proyecto
