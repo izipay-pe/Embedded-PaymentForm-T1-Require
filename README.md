@@ -2,7 +2,7 @@
 
  Ejemplo de formulario incrustado para utilizar la librería Require.js dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona ya que mejorará la velocidad y la calidad de su código.
  
- Require.js es un cargador de módulos y archivos en JavaScript. Está optimizado para uso en el navegador, pero se puede usar en otros entornos de JavaScript, como  Rhino y Node
+ Require.js es un cargador de módulos y archivos en JavaScript. Está optimizado para uso en el navegador, pero se puede usar en otros entornos de JavaScript, como  Rhino y Node.
 
 <p align="center">
   <img src="/src/formulario_incrustado.png?raw=true" alt="Formulario"/>
