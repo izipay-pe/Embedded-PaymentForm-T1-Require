@@ -1,13 +1,15 @@
-# Embedded-PaymentForm-Require
+# Embedded-PaymentForm-Require.js
 
- Teoria de la tecnilogia y como o para que se utiliza con el formulario de Izipay.
+ Ejemplo de formulario incrustado para utilizar la librería Require.js dentro de tu proyecto, que te permitirá cargar los scripts de forma asíncrona ya que mejorará la velocidad y la calidad de su código.
+ 
+ Require.js es un cargador de módulos y archivos en JavaScript. Está optimizado para uso en el navegador, pero se puede usar en otros entornos de JavaScript, como  Rhino y Node
 
 <p align="center">
   <img src="/src/formulario_incrustado.png?raw=true" alt="Formulario"/>
 </p>  
 
 
-## Este es un ejemplo de como poder integrar un formulario embebido utilizando el framework "nombre de tu tecnología". Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
+## Este es un ejemplo de como poder integrar un formulario embebido utilizando la librería Require.js utilizando JavaScript. Este ejemplo es solo una guía para poder realizar la integración de la pasarela de pagos, puede realizar las modificaciones necesarias para su proyecto.
 
 
 <a name="Requisitos_Previos"></a>
