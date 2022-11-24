@@ -1,4 +1,4 @@
-# Embedded-PaymentForm-T1-Require
+# Embedded-PaymentForm-Require
 
  Teoria de la tecnilogia y como o para que se utiliza con el formulario de Izipay.
 
